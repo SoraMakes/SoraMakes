@@ -36,5 +36,3 @@ I'm a developer and DevOps engineer with an M.Sc. in Computer Science. My experi
 
 - **Other Interests:**  
   I have a strong curiosity about data compression techniques and enjoy experimenting with related tools and algorithms.
-
-The above overview is intended to provide a concise, AI-assisted summary of my main technical projects and interests. For more detailed information, please explore my repositories.
