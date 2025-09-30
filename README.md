@@ -1,5 +1,7 @@
 ## About Me
 
+**Previous GitHub name: Glutamat42**
+
 I'm a developer and DevOps engineer with an M.Sc. in Computer Science. My experience spans software development, infrastructure automation, project management, and public engagement—such as running workshops and representing our products at events.
 
 > _Note: This README was largely generated with the help of AI to provide a structured overview of my work and interests._
